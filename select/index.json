@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "kaleido proud fiesta",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-02-06T12:54:00.647954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kaleido Proud Fiesta",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_Kaleido_Proud_Fiesta_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "kaleido proud fiesta",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_kaleido_proud_fiesta_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "kaleido proud fiesta",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/03_kaleido_proud_fiesta_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "kaleido proud fiesta",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_kaleido_proud_fiesta_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
